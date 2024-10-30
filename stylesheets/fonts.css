@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "AnonymousPro-Bold";
+    src: url("../fonts/AnonymousPro-Bold.ttf")  format('truetype'),
+    url('../fonts/AnonymousPro-Bold.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AnonymousPro-BoldItalic";
+    src: url("../fonts/AnonymousPro-BoldItalic.ttf")  format('truetype'),
+    url('../fontsAnonymousPro-BoldItalic.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AnonymousPro-Italic";
+    src: url("../fonts/AnonymousPro-Italic.ttf")  format('truetype'),
+    url('../fonts/fonts/AnonymousPro-Italic.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AnonymousPro-Regular";
+    src: url("../fonts/AnonymousPro-Regular.ttf")  format('truetype'),
+    url('../fonts/AnonymousPro-Regular.woff') format('woff');
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: "hsesans";
+    src: url("../fonts/hsesans-regular.ttf")  format('truetype'),
+    url('../fonts/hsesans-regular.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "HSESans";
+    src: url("../fonts/HSESans.ttf")  format('truetype'),
+    url('../fonts/HSESans.woff') format('woff');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "InterRegular";
+    src: url("../fonts/InterRegular.ttf")  format('truetype'),
+    url('../fonts/InterRegular.woff') format('woff');
+    font-style: normal;
+  }
